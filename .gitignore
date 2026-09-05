@@ -16,7 +16,9 @@ project_introduction.md
 project_intro.md
 submit_project.md
 original-readme.md
+cheat-sheet-probalistic-graphical-models.md
 *.zip
+introduction.md
 
 # Environments
 .env
